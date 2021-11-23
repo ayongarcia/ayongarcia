@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ayôn García, and I am a joung resercher in the Atacama University and PhD student in the [Geological Science] at the University of Cordoba. My research focuses on cryosphere in arid environments and their relationship with the water availability. My research interests include graph cryosphere, hidrology, geophysics and climate change.
+My name is Ayôn García, and I am a joung resercher in the Atacama University and PhD student in the [Geological Science] at the Universidad Nacional de Córdoba. My research focuses on cryosphere in arid environments and their relationship with the water availability. My research interests include graph cryosphere, hidrology, geophysics and climate change.
 
 Prior to my PhD, I received a Diploma in Geology from the Atacama University. For my Diploma thesis, I researched the topic of glacier and periglacial environment.
 
